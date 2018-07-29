@@ -1,0 +1,33 @@
+
+Search String: movie-this, Gladiator
+================ Movie Info ================
+Title: Gladiator
+Release Year: 2000
+IMdB Rating: 8.5
+Plot: When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+Language: English
+==================THE END=================
+Rating: 8.5/10
+Country: USA, UK
+
+Search String: do-what-it-says, 
+================ Movie Info ================
+Title: V for Vendetta
+IMdB Rating: 8.2
+Language: English
+Plot: In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.
+Actors: Natalie Portman, Hugo Weaving, Stephen Rea, Stephen Fry
+Release Year: 2005
+Country: USA, UK, Germany
+==================THE END=================
+Rating: 8.2/10
+
+Search String: spotify-this-song, 
+Search String: spotify-this-song, Inside Out
+Search String: spotify-this-song, ************
+Artist: Incubus
+Album: Morning View
+Song: Aqueous Transmissions
+Song Link: https://open.spotify.com/track/5M67k54BVUDADZPryaqV1y
+************
